@@ -9,7 +9,7 @@ The main goal of this project was to analyze sales performance, identify profita
 * **Data Cleaning & EDA:** Python (Pandas)
 * **Database Management:** SQL (Integrated Queries)
 * **Visualization:** Power BI Desktop
-* **Environment:** Google Colab
+  
 
 ## 📂 Key Steps in the Project
 1. **Data Preprocessing (Python):** Handled missing values, standardized date formats, and performed data type conversions using Pandas.
