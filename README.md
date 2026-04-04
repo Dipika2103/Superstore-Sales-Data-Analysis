@@ -54,10 +54,7 @@ The main goal of this project was to analyze sales performance, identify profita
    * Regional Sales Performance.
    * Category and Sub-category wise distribution.
 
-## 📈 Dashboard Preview
-![Dashboard Screenshot](./Screenshot%202026-04-03%20185908.png)
 
----
 
 ## 📁 Repository Structure
 * `data_analysis.ipynb`: The primary notebook containing Python code and SQL queries.
